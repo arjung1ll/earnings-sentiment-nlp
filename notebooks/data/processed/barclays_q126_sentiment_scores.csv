@@ -1,0 +1,34 @@
+label,chunk,text_preview,sentiment,score
+Speech,1,Barclays PLC Q1 2026 Results Analyst and Investor Conference Call Speech 28th April 2026 Speakers: C...,neutral,0.8874
+Speech,2,recognise a £228 million single name charge in the first quarter. This was in our Securitised Produc...,negative,0.8616
+Speech,3,supported by share count reduction. Operational momentum continues and we remain focused on executio...,positive,0.9594
+Speech,4,a higher cost per claim following increases to the compensatory interest rate. Inclusive of the Moto...,positive,0.6864
+Speech,5,"growth RWAs by the end of '26, having deployed £22 billion since '24. We grew mortgage lending by £1...",positive,0.9597
+Speech,6,with the fall versus Q4 mainly due to day count. Strong lending momentum continued and supported dep...,positive,0.9541
+Speech,7,"which account for 28% of income versus 22% in '23. In the International Corporate Bank, US Dollar de...",positive,0.9538
+Speech,8,"guided last quarter. Total income in Q1 provides a good starting point for the rest of the year, wit...",positive,0.8399
+Speech,9,'28 in a range of environments. Over to you Venkat for concluding remarks. =========================...,neutral,0.5927
+Q&A,1,Barclays Q1 2026 Results Q&A Transcript 28 April 2026 (amended in places to improve accuracy and rea...,neutral,0.7663
+Q&A,2,"very comfortable with consensus for '26, both for the Group and for Barclays UK. As I look a little ...",negative,0.7324
+Q&A,3,"How far are we in that? Because presumably, as you said, some of the volumes that might be rolling o...",neutral,0.6355
+Q&A,4,"about what's happening in the mortgage market, we have seen a pull forward of applications, but they...",positive,0.5017
+Q&A,5,"related to the AA portfolio, but basically, I'm just curious if US players are being a bit more aggr...",negative,0.8593
+Q&A,6,"in the context of where the yield curve is today? Or are you saying that consensus was very light, e...",neutral,0.8259
+Q&A,7,this business about how we can take the full suite of products to our partner base. And that's what ...,positive,0.9215
+Q&A,8,"of landing outside of the UK, the IB perhaps? And just to get a reflection of the stickiness, I supp...",neutral,0.9073
+Q&A,9,do these post-management adjustments (PMA) for two reasons. The first is where we're doing some work...,neutral,0.7437
+Q&A,10,"part. So yes, like the broader consultation might suggest, there is an ongoing discussion in the UK ...",positive,0.6228
+Q&A,11,"been putting more capital and more balance sheet. And you know, at least the way we have done the an...",positive,0.9354
+Q&A,12,was a delta in competitive intensity that actually mattered on the ground? Thanks very much. Anna Cr...,neutral,0.887
+Q&A,13,"first of all, there's no new news to us here, right? We've been following this for a number of years...",neutral,0.8142
+Q&A,14,growth for you for a number of years now. It's obviously not just RWA-based capital relief that US p...,negative,0.6589
+Q&A,15,"I said earlier, over a number of quarters, you've seen the US banks put in both capital and balance ...",positive,0.8519
+Q&A,16,point points range. That's purely because of the single name [charge] that we took in the first quar...,negative,0.7268
+Q&A,17,behaviour. Corporate balance sheets remain strong. Consumers remain in a very robust position. And w...,positive,0.7997
+Q&A,18,"bar chart look very different today, i.e., has the size of the opportunity set in Financing changed ...",neutral,0.8285
+Q&A,19,"in the next year or so. We have to give it some more time, but that would be a reasonable assumption...",neutral,0.9066
+Q&A,20,"yet. And I don't think it's fed through to consensus, which is what we follow. That's the reason. Wh...",neutral,0.8525
+Q&A,21,"you guys thinking, this is a problem for our book, and we're going to have to start taking some mate...",neutral,0.7982
+Q&A,22,So let me just continue on that question for a second and then I'll come back to your second questio...,positive,0.4475
+Q&A,23,"or negligible losses across all of this. That's the first important thing. When fraud happens, right...",neutral,0.5988
+Q&A,24,"fulfillment of our RWA promises in the UK, increased client engagement in the Investment Bank, and s...",positive,0.8101

@@ -1,0 +1,7 @@
+label,sentiment,count,avg_score,total,pct
+Q&A,negative,4,0.7443500000000001,24,16.7
+Q&A,neutral,12,0.7970416666666668,24,50.0
+Q&A,positive,8,0.736325,24,33.3
+Speech,negative,1,0.8616,9,11.1
+Speech,neutral,2,0.74005,9,22.2
+Speech,positive,6,0.8922166666666667,9,66.7
